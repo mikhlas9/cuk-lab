@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cuk-lab/static/css/main.88e0c020.css",
+    "main.js": "/cuk-lab/static/js/main.ea945483.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/cuk-lab/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/cuk-lab/index.html",
+    "main.88e0c020.css.map": "/cuk-lab/static/css/main.88e0c020.css.map",
+    "main.ea945483.js.map": "/cuk-lab/static/js/main.ea945483.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/cuk-lab/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e0c020.css",
+    "static/js/main.ea945483.js"
+  ]
+}
